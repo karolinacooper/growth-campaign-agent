@@ -1,0 +1,6 @@
+# raw exports and anything client-confidential
+exports/
+*.csv
+*.xlsx
+.env
+.DS_Store
